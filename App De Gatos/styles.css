@@ -1,0 +1,92 @@
+/*h2 {
+	color: blue
+	
+}
+
+h3 {
+	color: green
+	
+}
+
+p {
+	color: purple
+	
+}
+
+ul { 
+	color: chocolate;	
+} 
+
+ol {
+	color: chocolate;
+	
+}*/
+/*.lista-de-gatos{
+	color: chocolate;
+}*/
+
+h2,
+h3 {
+	font-size: 50px;
+}
+/*li {
+	color: blue;
+	font-size: 15px;
+}*/
+
+/*h2 {
+	font-family: 'Delicious Handrawn', cursive;
+}*/
+/* {
+	width: 200px;
+}*/
+/*.imagen-de-gatos{
+	width: 200px;
+	border-width:10px;
+	border-color: blue;
+	border-style: double;
+}*/
+.bordes-redondeados {
+	border-radius: 50%;
+	border-width: 3px;
+	border-color: #eb4034;
+	
+}	
+/*div {
+	background-color: silver;
+}*/
+#app-de-gatos{
+	font-size: 30px;
+	color: green
+	
+}
+#lista-gatos-aman{
+	font-size: 15px;
+	color: green
+}
+
+div{
+	background-color: crimson;
+}
+
+img {
+	margin: 15px;
+	/*padding: 15px;*/
+	background-color: yellow;
+	border-width: 2px,
+	bordercolor: black;
+	border-style: solid;
+}
+ [type="radio"]{
+ 		margin: 5px;
+ }
+ [type="checkbox"]{
+ 		margin: 8px;
+ }
+ body{
+ 	background-color: black;
+ 	color: chocolate;
+ }
+ 
+
+
